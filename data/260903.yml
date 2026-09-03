@@ -1,11 +1,13 @@
 about:
-  description: 🖥 Securely transfer and send anything between computers with TUI.
+  description:
+  |
+    🖥 Securely transfer and send anything between computers with TUI.
   license: MIT
   homepage: 
   head: 3d27d9b
   archived: false
   latestVersion: v0.1.43
-  collectedAt: 2026-09-03T05:12:39Z
+  collectedAt: 2026-09-03T22:38:46Z
 timeline:
   created: 2022-01-26
   lastCommit: 2025-07-08
@@ -25,7 +27,7 @@ language:
   PowerShell: 2226
   JavaScript: 1470
   Makefile: 1053
-totalLine: 178340
+totalBytes: 178340
 recent:
   last30d:
     since: 2026-08-04
