@@ -22,7 +22,38 @@ x install tran
 - **Latest**: `v0.1.43` (2022-08-04)
 - **Last commit**: 2025-07-08
 - **Assets in release**: 27
-- **Published**: 2022-08-04T05:52:49Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/abdfnx/tran/releases/download/v0.1.43/checksums.txt) | 2.3 KiB | `other` |
+| [tran_freebsd_v0.1.43_386.zip](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_freebsd_v0.1.43_386.zip) | 11.8 MiB | `other` |
+| [tran_freebsd_v0.1.43_amd64.zip](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_freebsd_v0.1.43_amd64.zip) | 12.1 MiB | `other` |
+| [tran_freebsd_v0.1.43_arm.zip](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_freebsd_v0.1.43_arm.zip) | 11.7 MiB | `other` |
+| [tran_freebsd_v0.1.43_arm64.zip](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_freebsd_v0.1.43_arm64.zip) | 11.2 MiB | `other` |
+| [tran_linux_v0.1.43_386.zip](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_linux_v0.1.43_386.zip) | 11.8 MiB | `other` |
+| [tran_linux_v0.1.43_amd64.zip](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_linux_v0.1.43_amd64.zip) | 12.2 MiB | `native/linux/x64` |
+| [tran_linux_v0.1.43_arm.zip](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_linux_v0.1.43_arm.zip) | 11.7 MiB | `native/linux/arm` |
+| [tran_linux_v0.1.43_arm64.zip](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_linux_v0.1.43_arm64.zip) | 11.3 MiB | `native/linux/arm64` |
+| [tran_macos_v0.1.43_amd64.zip](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_macos_v0.1.43_amd64.zip) | 12.0 MiB | `native/darwin/x64` |
+| [tran_macos_v0.1.43_arm64.zip](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_macos_v0.1.43_arm64.zip) | 11.6 MiB | `native/darwin/arm64` |
+| [tran_v0.1.43_386.apk](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_v0.1.43_386.apk) | 12.1 MiB | `other` |
+| [tran_v0.1.43_386.deb](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_v0.1.43_386.deb) | 12.1 MiB | `other` |
+| [tran_v0.1.43_386.rpm](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_v0.1.43_386.rpm) | 12.1 MiB | `other` |
+| [tran_v0.1.43_amd64.apk](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_v0.1.43_amd64.apk) | 12.5 MiB | `other` |
+| [tran_v0.1.43_amd64.deb](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_v0.1.43_amd64.deb) | 12.5 MiB | `runtime/deb/amd64` |
+| [tran_v0.1.43_amd64.rpm](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_v0.1.43_amd64.rpm) | 12.5 MiB | `other` |
+| [tran_v0.1.43_arm.apk](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_v0.1.43_arm.apk) | 12.1 MiB | `other` |
+| [tran_v0.1.43_arm.deb](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_v0.1.43_arm.deb) | 12.1 MiB | `other` |
+| [tran_v0.1.43_arm.rpm](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_v0.1.43_arm.rpm) | 12.1 MiB | `other` |
+| [tran_v0.1.43_arm64.apk](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_v0.1.43_arm64.apk) | 11.6 MiB | `other` |
+| [tran_v0.1.43_arm64.deb](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_v0.1.43_arm64.deb) | 11.6 MiB | `runtime/deb/arm64` |
+| [tran_v0.1.43_arm64.rpm](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_v0.1.43_arm64.rpm) | 11.6 MiB | `other` |
+| [tran_windows_v0.1.43_386.zip](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_windows_v0.1.43_386.zip) | 12.2 MiB | `native/win/x64` |
+| [tran_windows_v0.1.43_amd64.zip](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_windows_v0.1.43_amd64.zip) | 12.3 MiB | `native/win/x64` |
+| [tran_windows_v0.1.43_arm.zip](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_windows_v0.1.43_arm.zip) | 11.9 MiB | `native/win/x64` |
+| [tran_windows_v0.1.43_arm64.zip](https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_windows_v0.1.43_arm64.zip) | 11.4 MiB | `native/win/arm64` |
 
 ## Popularity
 
@@ -67,8 +98,8 @@ Lowest-scoring checks:
 Install metadata for tran lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tran` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tran.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tran.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:15:07Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:57:52Z._
