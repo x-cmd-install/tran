@@ -14,11 +14,11 @@ x install tran
 
 ## Code insight
 
-Total: **5,853** lines of code across **73** files in the top 5 languages.
+Total: **5,887** lines of code across **74** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 5,391 | 251 | 1,468 | 65 |
+| Go | 5,425 | 252 | 1,474 | 66 |
 | Sh | 107 | 6 | 33 | 2 |
 | Json | 72 | 0 | 0 | 2 |
 | Yaml | 66 | 2 | 17 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.1.43` (2022-08-04)
-- **Last commit**: 2025-07-08
+- **Last commit**: 2026-10-22
 - **Assets in release**: 27
 
 ## Popularity
 
-- **Stars**: 447 · **Forks**: 18 · **Open issues**: 10 · **Contributors**: 7
+- **Stars**: 447 · **Forks**: 18 · **Open issues**: 10 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 145 · **Open PRs**: 5 · **Closed issues**: 4 · **Open issues**: 6 · **Commits**: 263
+- **Releases**: 9 · **Merged PRs**: 146 · **Open PRs**: 4 · **Closed issues**: 4 · **Open issues**: 6 · **Commits**: 264
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last720d | 2024-11-01 | 0 | 1 | 3 | 0 | 1 | 1 |
+| 30d | 2026-09-23 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-24 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-07-25 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last180d | 2026-04-26 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 360d | 2025-10-28 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last720d | 2024-11-02 | 0 | 2 | 2 | 0 | 1 | 2 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for tran lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:07:14Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:05:59Z._
