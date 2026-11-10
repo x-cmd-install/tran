@@ -24,16 +24,6 @@ x install tran
 | Yaml | 66 | 2 | 17 | 1 |
 | Dockerfile | 64 | 13 | 24 | 3 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **4.6 / 10**
-
-评分最低的几项:
-
-- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Security-Policy** (4/10) — security policy file detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/abdfnx/tran>
@@ -57,12 +47,12 @@ x install tran
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-10 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-11 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last180d | 2026-05-13 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 360d | 2025-11-14 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last720d | 2024-11-19 | 0 | 2 | 2 | 0 | 1 | 2 |
+| 30d | 2026-10-11 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-11 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-12 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last180d | 2026-05-14 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 360d | 2025-11-15 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last720d | 2024-11-20 | 0 | 2 | 2 | 0 | 1 | 2 |
 
 ## Release 资产
 
@@ -105,4 +95,4 @@ tran 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T06:53:46Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:39:43Z._
