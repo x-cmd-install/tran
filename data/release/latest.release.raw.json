@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 12778037,
       "digest": null,
-      "download_count": 2961,
+      "download_count": 2962,
       "created_at": "2022-08-04T01:57:25Z",
       "updated_at": "2022-08-04T01:57:26Z",
       "browser_download_url": "https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_linux_v0.1.43_amd64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 12319565,
       "digest": null,
-      "download_count": 40,
+      "download_count": 41,
       "created_at": "2022-08-04T01:57:26Z",
       "updated_at": "2022-08-04T01:57:27Z",
       "browser_download_url": "https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_linux_v0.1.43_arm.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 11857267,
       "digest": null,
-      "download_count": 69,
+      "download_count": 70,
       "created_at": "2022-08-04T01:57:25Z",
       "updated_at": "2022-08-04T01:57:26Z",
       "browser_download_url": "https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_linux_v0.1.43_arm64.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 12735353,
       "digest": null,
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2022-08-04T01:57:31Z",
       "updated_at": "2022-08-04T01:57:32Z",
       "browser_download_url": "https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_v0.1.43_386.apk"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 12472814,
       "digest": null,
-      "download_count": 31,
+      "download_count": 32,
       "created_at": "2022-08-04T01:57:30Z",
       "updated_at": "2022-08-04T01:57:31Z",
       "browser_download_url": "https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_windows_v0.1.43_arm.zip"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 11952033,
       "digest": null,
-      "download_count": 31,
+      "download_count": 32,
       "created_at": "2022-08-04T01:57:29Z",
       "updated_at": "2022-08-04T01:57:30Z",
       "browser_download_url": "https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_windows_v0.1.43_arm64.zip"
