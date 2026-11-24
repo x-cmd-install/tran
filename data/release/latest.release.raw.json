@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 12778037,
       "digest": null,
-      "download_count": 2970,
+      "download_count": 2972,
       "created_at": "2022-08-04T01:57:25Z",
       "updated_at": "2022-08-04T01:57:26Z",
       "browser_download_url": "https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_linux_v0.1.43_amd64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 12175528,
       "digest": null,
-      "download_count": 525,
+      "download_count": 526,
       "created_at": "2022-08-04T01:57:28Z",
       "updated_at": "2022-08-04T01:57:29Z",
       "browser_download_url": "https://github.com/abdfnx/tran/releases/download/v0.1.43/tran_macos_v0.1.43_arm64.zip"
